@@ -1,9 +1,3 @@
-### Hi there i am Bwolf 👋
-
-🔭 I’m currently working on FTeam and Flutterando
-
-🌱 I’m currently learning Flutter and Dart
-
  <div>
   <a href="https://github.com/bwolfs2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bwolfs2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
