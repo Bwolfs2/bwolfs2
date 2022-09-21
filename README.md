@@ -1,5 +1,6 @@
 
-<div> 
+
+<div>  
   <a href="https://www.youtube.com/c/BwolfDev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/bwolf.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/bwolfando" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -7,9 +8,6 @@
      <a href="https://t.me/flutterando" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>     
   <a href = "mailto:bwolfnoob@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bwolfdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
- 
 </div>
  </br>
 <div >
@@ -27,6 +25,6 @@
  
  ![Snake animation](https://github.com/bwolfs2/bwolfs2/blob/output/github-contribution-grid-snake.svg)
  
-
+ <a href="https://ko-fi.com/bwolf" target="_blank"><img height="90em" src="https://storage.ko-fi.com/cdn/brandasset/kofi_s_tag_white.png?" target="_blank"></a>
   
   
