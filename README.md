@@ -25,6 +25,4 @@
  
  ![Snake animation](https://github.com/bwolfs2/bwolfs2/blob/output/github-contribution-grid-snake.svg)
  
- <a href="https://ko-fi.com/bwolf" target="_blank"><img height="90em" src="https://storage.ko-fi.com/cdn/brandasset/kofi_s_tag_white.png?" target="_blank"></a>
-  
   
